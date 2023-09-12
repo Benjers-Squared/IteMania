@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "net.benjerssquared.itemania.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"IteMania"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
