@@ -1,5 +1,6 @@
 package net.benjerssquared.itemania;
 
+import net.benjerssquared.itemania.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -11,7 +12,7 @@ public class IteMania implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
-		LOGGER.info("Hello Fabric world!");
+		LOGGER.info("Started IteMania Initializer");
+		ModItems.registerModItems();
 	}
 }
