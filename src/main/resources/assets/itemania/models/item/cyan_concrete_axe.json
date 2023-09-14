@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "itemania:item/cyan_concrete_axe"
+  }
+}

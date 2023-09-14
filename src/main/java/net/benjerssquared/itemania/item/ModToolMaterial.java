@@ -11,9 +11,22 @@ import java.util.function.Supplier;
 
 public enum ModToolMaterial implements ToolMaterial {
 
-    RED_CONCRETE(MiningLevels.STONE, 211, 3.5f, 0.0f, 5, () -> Ingredient.ofItems(Items.RED_CONCRETE)),
-    ORANGE_CONCRETE(MiningLevels.STONE, 211, 3.5f, 0.0f, 5, () -> Ingredient.ofItems(Items.ORANGE_CONCRETE)),
-    YELLOW_CONCRETE(MiningLevels.STONE, 211, 3.5f, 0.0f, 5, () -> Ingredient.ofItems(Items.YELLOW_CONCRETE));
+    WHITE_CONCRETE(MiningLevels.STONE, 211, 3.5f, 1.0f, 5, () -> Ingredient.ofItems(Items.WHITE_CONCRETE)),
+    LIGHT_GRAY_CONCRETE(MiningLevels.STONE, 211, 3.5f, 1.0f, 5, () -> Ingredient.ofItems(Items.LIGHT_GRAY_CONCRETE)),
+    GRAY_CONCRETE(MiningLevels.STONE, 211, 3.5f, 1.0f, 5, () -> Ingredient.ofItems(Items.GRAY_CONCRETE)),
+    BLACK_CONCRETE(MiningLevels.STONE, 211, 3.5f, 1.0f, 5, () -> Ingredient.ofItems(Items.BLACK_CONCRETE)),
+    BROWN_CONCRETE(MiningLevels.STONE, 211, 3.5f, 1.0f, 5, () -> Ingredient.ofItems(Items.BROWN_CONCRETE)),
+    RED_CONCRETE(MiningLevels.STONE, 211, 3.5f, 1.0f, 5, () -> Ingredient.ofItems(Items.RED_CONCRETE)),
+    ORANGE_CONCRETE(MiningLevels.STONE, 211, 3.5f, 1.0f, 5, () -> Ingredient.ofItems(Items.ORANGE_CONCRETE)),
+    YELLOW_CONCRETE(MiningLevels.STONE, 211, 3.5f, 1.0f, 5, () -> Ingredient.ofItems(Items.YELLOW_CONCRETE)),
+    LIME_CONCRETE(MiningLevels.STONE, 211, 3.5f, 1.0f, 5, () -> Ingredient.ofItems(Items.LIME_CONCRETE)),
+    GREEN_CONCRETE(MiningLevels.STONE, 211, 3.5f, 1.0f, 5, () -> Ingredient.ofItems(Items.GREEN_CONCRETE)),
+    CYAN_CONCRETE(MiningLevels.STONE, 211, 3.5f, 1.0f, 5, () -> Ingredient.ofItems(Items.CYAN_CONCRETE)),
+    LIGHT_BLUE_CONCRETE(MiningLevels.STONE, 211, 3.5f, 1.0f, 5, () -> Ingredient.ofItems(Items.LIGHT_BLUE_CONCRETE)),
+    BLUE_CONCRETE(MiningLevels.STONE, 211, 3.5f, 1.0f, 5, () -> Ingredient.ofItems(Items.BLUE_CONCRETE)),
+    PURPLE_CONCRETE(MiningLevels.STONE, 211, 3.5f, 1.0f, 5, () -> Ingredient.ofItems(Items.PURPLE_CONCRETE)),
+    MAGENTA_CONCRETE(MiningLevels.STONE, 211, 3.5f, 1.0f, 5, () -> Ingredient.ofItems(Items.MAGENTA_CONCRETE)),
+    PINK_CONCRETE(MiningLevels.STONE, 211, 3.5f, 1.0f, 5, () -> Ingredient.ofItems(Items.PINK_CONCRETE));
 
     private final int miningLevel;
     private final int itemDurability;

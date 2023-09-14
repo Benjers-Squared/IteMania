@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "itemania:item/blue_concrete_sword"
+  }
+}

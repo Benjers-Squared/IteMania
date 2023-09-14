@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "itemania:item/green_concrete_hoe"
+  }
+}

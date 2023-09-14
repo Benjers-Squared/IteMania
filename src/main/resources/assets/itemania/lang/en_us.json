@@ -1,4 +1,34 @@
 {
+  "item.itemania.white_concrete_sword" : "White Concrete Sword",
+  "item.itemania.white_concrete_pickaxe" : "White Concrete Pickaxe",
+  "item.itemania.white_concrete_axe" : "White Concrete Axe",
+  "item.itemania.white_concrete_shovel" : "White Concrete Shovel",
+  "item.itemania.white_concrete_hoe" : "White Concrete Hoe",
+
+  "item.itemania.light_gray_concrete_sword" : "Light Gray Concrete Sword",
+  "item.itemania.light_gray_concrete_pickaxe" : "Light Gray Concrete Pickaxe",
+  "item.itemania.light_gray_concrete_axe" : "Light Gray Concrete Axe",
+  "item.itemania.light_gray_concrete_shovel" : "Light Gray Concrete Shovel",
+  "item.itemania.light_gray_concrete_hoe" : "Light Gray Concrete Hoe",
+
+  "item.itemania.gray_concrete_sword" : "Gray Concrete Sword",
+  "item.itemania.gray_concrete_pickaxe" : "Gray Concrete Pickaxe",
+  "item.itemania.gray_concrete_axe" : "Gray Concrete Axe",
+  "item.itemania.gray_concrete_shovel" : "Gray Concrete Shovel",
+  "item.itemania.gray_concrete_hoe" : "Gray Concrete Hoe",
+
+  "item.itemania.black_concrete_sword" : "Black Concrete Sword",
+  "item.itemania.black_concrete_pickaxe" : "Black Concrete Pickaxe",
+  "item.itemania.black_concrete_axe" : "Black Concrete Axe",
+  "item.itemania.black_concrete_shovel" : "Black Concrete Shovel",
+  "item.itemania.black_concrete_hoe" : "Black Concrete Hoe",
+
+  "item.itemania.brown_concrete_sword" : "Brown Concrete Sword",
+  "item.itemania.brown_concrete_pickaxe" : "Brown Concrete Pickaxe",
+  "item.itemania.brown_concrete_axe" : "Brown Concrete Axe",
+  "item.itemania.brown_concrete_shovel" : "Brown Concrete Shovel",
+  "item.itemania.brown_concrete_hoe" : "Brown Concrete Hoe",
+
   "item.itemania.red_concrete_sword" : "Red Concrete Sword",
   "item.itemania.red_concrete_pickaxe" : "Red Concrete Pickaxe",
   "item.itemania.red_concrete_axe" : "Red Concrete Axe",
@@ -15,5 +45,53 @@
   "item.itemania.yellow_concrete_pickaxe" : "Yellow Concrete Pickaxe",
   "item.itemania.yellow_concrete_axe" : "Yellow Concrete Axe",
   "item.itemania.yellow_concrete_shovel" : "Yellow Concrete Shovel",
-  "item.itemania.yellow_concrete_hoe" : "Yellow Concrete Hoe"
+  "item.itemania.yellow_concrete_hoe" : "Yellow Concrete Hoe",
+
+  "item.itemania.lime_concrete_sword" : "Lime Concrete Sword",
+  "item.itemania.lime_concrete_pickaxe" : "Lime Concrete Pickaxe",
+  "item.itemania.lime_concrete_axe" : "Lime Concrete Axe",
+  "item.itemania.lime_concrete_shovel" : "Lime Concrete Shovel",
+  "item.itemania.lime_concrete_hoe" : "Lime Concrete Hoe",
+
+  "item.itemania.green_concrete_sword" : "Green Concrete Sword",
+  "item.itemania.green_concrete_pickaxe" : "Green Concrete Pickaxe",
+  "item.itemania.green_concrete_axe" : "Green Concrete Axe",
+  "item.itemania.green_concrete_shovel" : "Green Concrete Shovel",
+  "item.itemania.green_concrete_hoe" : "Green Concrete Hoe",
+
+  "item.itemania.cyan_concrete_sword" : "Cyan Concrete Sword",
+  "item.itemania.cyan_concrete_pickaxe" : "Cyan Concrete Pickaxe",
+  "item.itemania.cyan_concrete_axe" : "Cyan Concrete Axe",
+  "item.itemania.cyan_concrete_shovel" : "Cyan Concrete Shovel",
+  "item.itemania.cyan_concrete_hoe" : "Cyan Concrete Hoe",
+
+  "item.itemania.light_blue_concrete_sword" : "Light Blue Concrete Sword",
+  "item.itemania.light_blue_concrete_pickaxe" : "Light Blue Concrete Pickaxe",
+  "item.itemania.light_blue_concrete_axe" : "Light Blue Concrete Axe",
+  "item.itemania.light_blue_concrete_shovel" : "Light Blue Concrete Shovel",
+  "item.itemania.light_blue_concrete_hoe" : "Light Blue Concrete Hoe",
+
+  "item.itemania.blue_concrete_sword" : "Blue Concrete Sword",
+  "item.itemania.blue_concrete_pickaxe" : "Blue Concrete Pickaxe",
+  "item.itemania.blue_concrete_axe" : "Blue Concrete Axe",
+  "item.itemania.blue_concrete_shovel" : "Blue Concrete Shovel",
+  "item.itemania.blue_concrete_hoe" : "Blue Concrete Hoe",
+
+  "item.itemania.purple_concrete_sword" : "Purple Concrete Sword",
+  "item.itemania.purple_concrete_pickaxe" : "Purple Concrete Pickaxe",
+  "item.itemania.purple_concrete_axe" : "Purple Concrete Axe",
+  "item.itemania.purple_concrete_shovel" : "Purple Concrete Shovel",
+  "item.itemania.purple_concrete_hoe" : "Purple Concrete Hoe",
+
+  "item.itemania.magenta_concrete_sword" : "Magenta Concrete Sword",
+  "item.itemania.magenta_concrete_pickaxe" : "Magenta Concrete Pickaxe",
+  "item.itemania.magenta_concrete_axe" : "Magenta Concrete Axe",
+  "item.itemania.magenta_concrete_shovel" : "Magenta Concrete Shovel",
+  "item.itemania.magenta_concrete_hoe" : "Magenta Concrete Hoe",
+
+  "item.itemania.pink_concrete_sword" : "Pink Concrete Sword",
+  "item.itemania.pink_concrete_pickaxe" : "Pink Concrete Pickaxe",
+  "item.itemania.pink_concrete_axe" : "Pink Concrete Axe",
+  "item.itemania.pink_concrete_shovel" : "Pink Concrete Shovel",
+  "item.itemania.pink_concrete_hoe" : "Pink Concrete Hoe"
 }
